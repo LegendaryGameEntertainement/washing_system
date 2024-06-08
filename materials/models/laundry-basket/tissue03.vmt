@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/laundry-basket/tissue03"
+	"$bumpmap" "models/laundry-basket/tissue03_normal"
+}

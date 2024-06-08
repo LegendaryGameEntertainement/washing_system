@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/laundry-basket/panier"
+	"$bumpmap" "models/laundry-basket/panier_normal"
+}
